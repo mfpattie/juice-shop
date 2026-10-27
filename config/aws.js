@@ -5,3 +5,4 @@ const AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY";
 module.exports = { AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY };
 
 //here for an edit
+//here for an edit again
